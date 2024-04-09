@@ -1,5 +1,6 @@
 
 export interface Streamers{
-    Nombre: string,
-    Url:string,
+    id:number
+    nombre: string,
+    url:string,
 }

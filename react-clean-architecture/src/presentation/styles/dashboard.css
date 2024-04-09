@@ -1,0 +1,33 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.header{
+    background-color: white;
+}
+
+.brand{
+    font-size: 2.3rem;
+    padding: 10;
+    margin-left: 20px;
+}
+
+.content{
+    display: flex;
+    padding: 24px;
+}
+
+.toggle-titleheader-container{
+    display: flex;
+    align-items: center;
+    
+}
+
+.toggle-icon{
+    cursor: pointer;
+}
+
+.sidebar{
+    width: 500px;
+}

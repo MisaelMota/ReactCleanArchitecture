@@ -1,13 +1,12 @@
-import './App.css'
-import { StreamerList } from './presentation/screens/StreamerList'
+//import './App.css'
+import { StreamerList } from "./presentation/screens/StreamerList";
 
 function App() {
-
   return (
     <>
-     <StreamerList/>
+      <StreamerList />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
